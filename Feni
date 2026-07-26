@@ -65,7 +65,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-20 group-title="BD Entertainment" tvg-logo="https://i.imgur.com/Ai5p9BP.jpg",Nexus TV
-https://yupptv.rkdyiptv.workers.dev/live/3508.m3u8
+https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 
 #EXTINF:-21 group-title="BD Entertainment" tvg-logo="https://i.ibb.co/QdGQj4v/GLOBAL.jpg",Global TV HD 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
@@ -86,11 +86,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-27 group-title="BD Entertainment" tvg-logo="https://i.imgur.com/kDmkexe.png", Bijoy TV
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/408.ts.m3u8
+https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="317" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png" group-title="Kol_Bangla",Star Jalsha HD
 http://book4u.top/royr/index.php?id=STAR_JALSHA
-#http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
 
 https://madanitv.assadikb.workers.dev/live.php?id=317&e=.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaHD.png" group-title="Kol_Bangla",Zee Bangla HD
