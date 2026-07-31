@@ -383,7 +383,7 @@ https://watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/ts-eu-w1-n2/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
-http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=t_sports_hd&format=.m3u8
 
 #EXTINF:-1 tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="Sports",Ten Cricket
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
