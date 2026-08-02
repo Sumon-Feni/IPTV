@@ -106,7 +106,7 @@ https://madanitv.assadikb.workers.dev/live.php?id=1669&e=.m3u8
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="697" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyAATH.png" group-title="Kol_Bangla",Sony aath
-https://madanitv.assadikb.workers.dev/live.php?id=697&e=.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009255
 
 #EXTINF:-1 tvg-id="457" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Kol_Bangla",Jalsha Movies HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:18:92:60&stream=441083&extension=m3u8
@@ -121,7 +121,7 @@ https://madanitv.assadikb.workers.dev/live.php?id=1657&e=.m3u8
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_HD.m3u8
 
 #EXTINF:-1  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="Hindi Movies",Sony Max HD
-https://madanitv.assadikb.workers.dev/live.php?id=476&e=.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247
 
 #EXTINF:-1 tvg-id="165" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" group-title="Hindi Movies",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -160,7 +160,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
 https://madanitv.assadikb.workers.dev/live.php?id=3418&e=.m3u8
 
 #EXTINF:-1 tvg-id="483" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX2.png" group-title="Hindi Movies",Sony MAX2
-https://madanitv.assadikb.workers.dev/live.php?id=483&e=.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000044878
 
 #EXTINF:-1 tvg-id="1763" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="Hindi Movies",Colors Cineplex Bollywood
 https://djplabon.aminmuaz636.workers.dev/live.php?id=1763
@@ -180,6 +180,9 @@ https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20250625T011531SQUARE.png",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 
+#EXTINF:-1 group-title="Hindi Movies"  tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png", Sony WAH
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009273
+
 #EXTINF:-1 tvg-id="1132" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Ind Entertainment",Star Plus HD
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_PLUS_HD.m3u8
 
@@ -192,7 +195,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 
 #EXTINF:-1 tvg-id="291" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Ind Entertainment",SET HD
-https://madanitv.assadikb.workers.dev/live.php?id=291&e=.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009246
 
 #EXTINF:-1 tvg-id="472" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AndTVHD.png" group-title="Ind Entertainment",And TV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -200,10 +203,13 @@ https://madanitv.assadikb.workers.dev/live.php?id=291&e=.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 
 #EXTINF:-1 tvg-id="471" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png" group-title="Ind Entertainment",Sony SAB HD
-https://madanitv.assadikb.workers.dev/live.php?id=471&e=.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009248
 
 #EXTINF:-1 tvg-id="931" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="Ind Entertainment",Star Bharat HD
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_BHARAT_HD.m3u8
+
+#EXTINF:-1 group-title="Ind Entertainment"  tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png", Sony Pal
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009273
 
 #EXTINF:-1 group-title="Ind Entertainment"  tvg-logo="https://i.ibb.co/rL5BTWS/channels4-profile.jpg",Epic Bharat 
 https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
@@ -245,7 +251,7 @@ http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/979.ts
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/218.ts
 
 #EXTINF:-1 tvg-id="762" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPIX.png" group-title="English Movies",Sony Pix HD
-https://madanitv.assadikb.workers.dev/live.php?id=762&e=.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009258
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="English Movies", Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -267,13 +273,11 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
-
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/baef6dd41c3ee6fabbb59bb8403cc1eb" group-title="English Movies",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/4d343b446b1e7164bb7239bbe822a570" group-title="English Movies",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="1335" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="Infotainment",National Geographic HD
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/7343.ts
@@ -292,7 +296,7 @@ https://madanitv.assadikb.workers.dev/live.php?id=3451&e=.m3u8
 https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
 
 #EXTINF:-1 tvg-id="821" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png" group-title="Infotainment",Sony BBC Earth HD
-https://madanitv.assadikb.workers.dev/live.php?id=821&e=.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009252
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cK5dNqTs/354-s.webp" group-title="Infotainment",4k Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
@@ -401,13 +405,13 @@ http://103.151.60.204:881/A-Sports/video.m3u8?token=Cv90Fr-lyiZYh2
 https://korim.packingggl.workers.dev/api/ef22d71b0e/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3510" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",Sony Sports1 HD
-https://yowaimo.in/Sflex-ArtlPVT0719/SONY_SPORTS_TEN_1_HD.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009276
 
 #EXTINF:-1 tvg-id="3511" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports",Sony Sports2 HD
-https://yowaimo.in/Sflex-ArtlPVT0719/SONY_SPORTS_TEN_2_HD.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009277
 
 #EXTINF:-1 tvg-id="3515" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Sports5 HD
-https://yowaimo.in/Sflex-ArtlPVT0719/SONY_SPORTS_TEN_5_HD.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009275
 
 #EXTINF:-1 tvg-id="1106" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_1_HD.m3u8
