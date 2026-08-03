@@ -141,8 +141,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/4082.ts
 
 #EXTINF:-1 tvg-id="1477" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="Hindi Movies",Colors Cineplex HD
-https://madanitv.assadikb.workers.dev/live.php?id=1477&e=.m3u8
-#http://live.balajibroadband.com:3500/live/1477.m3u8
+#https://madanitv.assadikb.workers.dev/live.php?id=1477&e=.m3u8
+http://live.balajibroadband.com:3500/live/1477.m3u8
 
 #EXTINF:-1 tvg-id="1113" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="Hindi Movies",Star Gold Select HD
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_SELECT_HD.m3u8
@@ -161,8 +161,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
 
 #EXTINF:-1 tvg-id="3418" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX1.png" group-title="Hindi Movies",Sony MAX1
-https://madanitv.assadikb.workers.dev/live.php?id=3418&e=.m3u8
-#http://live.balajibroadband.com:3500/live/3418.m3u8
+#https://madanitv.assadikb.workers.dev/live.php?id=3418&e=.m3u8
+http://live.balajibroadband.com:3500/live/3418.m3u8
 
 #EXTINF:-1 tvg-id="483" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX2.png" group-title="Hindi Movies",Sony MAX2
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000044878
