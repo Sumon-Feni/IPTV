@@ -99,8 +99,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 #EXTINF:-1 tvg-id="756" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Kol_Bangla",Colors Bangla HD
 #https://madanitv.assadikb.workers.dev/live.php?id=756&e=.m3u8
 http://live.balajibroadband.com:3500/live/756.m3u8
+
 #EXTINF:-1 tvg-id="1669" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Kol_Bangla",Sun Bangla
-https://madanitv.assadikb.workers.dev/live.php?id=1669&e=.m3u8
+#https://madanitv.assadikb.workers.dev/live.php?id=1669&e=.m3u8
+http://live.balajibroadband.com:3500/live/1669.m3u8
 
 #EXTINF:-1 group-title="Kol_Bangla" tvg-logo="https://i.postimg.cc/85GwNPPw/Enterr10-Bangla.jpg",Enterr10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
@@ -115,7 +117,8 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:18:92:60&stream=441083&exten
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/.m3u8
 
 #EXTINF:-1 tvg-id="1657" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Kol_Bangla",Colors Bangla Cinema
-https://madanitv.assadikb.workers.dev/live.php?id=1657&e=.m3u8
+#https://madanitv.assadikb.workers.dev/live.php?id=1657&e=.m3u8
+http://live.balajibroadband.com:3500/live/1657.m3u8
 
 #EXTINF:-1 tvg-id="156" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi Movies",Star Gold HD
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_HD.m3u8
@@ -139,6 +142,7 @@ http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/4082.ts
 
 #EXTINF:-1 tvg-id="1477" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="Hindi Movies",Colors Cineplex HD
 https://madanitv.assadikb.workers.dev/live.php?id=1477&e=.m3u8
+#http://live.balajibroadband.com:3500/live/1477.m3u8
 
 #EXTINF:-1 tvg-id="1113" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="Hindi Movies",Star Gold Select HD
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_SELECT_HD.m3u8
@@ -158,15 +162,17 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
 
 #EXTINF:-1 tvg-id="3418" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX1.png" group-title="Hindi Movies",Sony MAX1
 https://madanitv.assadikb.workers.dev/live.php?id=3418&e=.m3u8
+#http://live.balajibroadband.com:3500/live/3418.m3u8
 
 #EXTINF:-1 tvg-id="483" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX2.png" group-title="Hindi Movies",Sony MAX2
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000044878
 
 #EXTINF:-1 tvg-id="1763" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="Hindi Movies",Colors Cineplex Bollywood
-https://djplabon.aminmuaz636.workers.dev/live.php?id=1763
+http://live.balajibroadband.com:3500/live/1763.m3u8
 
 #EXTINF:-1 tvg-id="1450" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="Hindi Movies",Colors Cineplex Superhit
-https://madanitv.assadikb.workers.dev/live.php?id=1450&e=.m3u8
+#https://madanitv.assadikb.workers.dev/live.php?id=1450&e=.m3u8
+http://live.balajibroadband.com:3500/live/1450.m3u8
 
 #EXTINF:-1 tvg-id="301765" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg/revision/latest?cb=20200722093955" group-title="Hindi Movies",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -192,7 +198,8 @@ https://yowaimo.in/Sflex-ArtlPVT0719/STAR_PLUS_HD.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 
 #EXTINF:-1 tvg-id="144" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="Ind Entertainment",Colors HD
-https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
+#https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
+http://live.balajibroadband.com:3500/live/144.m3u8
 
 #EXTINF:-1 tvg-id="291" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Ind Entertainment",SET HD
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009246
@@ -287,10 +294,12 @@ https://yowaimo.in/Sflex-ArtlPVT0719/NAT_GEO_WILD_HD.m3u8
 #http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/9395.ts
 
 #EXTINF:-1 tvg-id="3444" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDHin.png" group-title="Infotainment",Discovery HD Hindi
-https://madanitv.assadikb.workers.dev/live.php?id=3444&e=.m3u8
+#https://madanitv.assadikb.workers.dev/live.php?id=3444&e=.m3u8
+http://live.balajibroadband.com:3500/live/3444.m3u8
 
 #EXTINF:-1 tvg-id="3451" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDHin.png" group-title="Infotainment",Animal Planet HD Hindi
-https://madanitv.assadikb.workers.dev/live.php?id=3451&e=.m3u8
+#https://madanitv.assadikb.workers.dev/live.php?id=3451&e=.m3u8
+http://live.balajibroadband.com:3500/live/3451.m3u8
 
 #EXTINF:-1 tvg-id="578" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Infotainment",History TV18 HD Hindi
 https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
@@ -364,7 +373,6 @@ https://dwqz6akge0ila.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="Educational" tvg-id="Mystery TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD50000320_20250107T030722SQUARE.png",Mystery TV
 https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/ts-eu-w1-n2/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Educational" tvg-id="USBD1200007FE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20240611T050306SQUARE.png",OuterSphere
 https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8
 
@@ -426,7 +434,8 @@ https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_1_HD.m3u8
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_2_HD.m3u8
 
 #EXTINF:-1 tvg-id="1145" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV HD
-https://madanitv.assadikb.workers.dev/live.php?id=1145&e=.m3u8
+#https://madanitv.assadikb.workers.dev/live.php?id=1145&e=.m3u8
+http://live.balajibroadband.com:3500/live/1145.m3u8
 
 #EXTINF:-1 tvg-id="2753" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
@@ -438,13 +447,15 @@ https://wiselp.wiseplayout.com/9XM/master.m3u8
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="250" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",Music India
-https://madanitv.assadikb.workers.dev/live.php?id=250&e=.m3u8
+#https://madanitv.assadikb.workers.dev/live.php?id=250&e=.m3u8
+http://live.balajibroadband.com:3500/live/250.m3u8
 
 #EXTINF:-1 tvg-id="440" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music",9X Jalwa
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/70fca4d1-156e-4c03-baa4-9a4b602e33d5/0.m3u8
 
 #EXTINF:-1 tvg-id="3074" tvg-logo="https://img.media.jio.com/imagespublic/36/1/301764_1721227877270_l_medium.jpg" group-title="Music",Shemaroo Gaane
-https://madanitv.assadikb.workers.dev/live.php?id=3074&e=.m3u8
+#https://madanitv.assadikb.workers.dev/live.php?id=3074&e=.m3u8
+http://live.balajibroadband.com:3500/live/3074.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/E24_new.jpg",E24 Music
 https://amg13643-amg13643c2-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c2-amgplt0016/playlist.m3u8
