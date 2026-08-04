@@ -126,6 +126,8 @@ https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_HD.m3u8
 #EXTINF:-1  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="Hindi Movies",Sony Max HD
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247
 
+https://madanitv.assadikb.workers.dev/live.php?id=1657&e=.m3u8
+
 #EXTINF:-1 tvg-id="165" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" group-title="Hindi Movies",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XUCpAyOPStmKu-0Yd9Tj0Q","kid":"9WvqrJ8SRhaHLHQcnOT6Tg"}],"type":"temporary"}
