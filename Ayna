@@ -254,5 +254,56 @@ https://ranapkz.site/RANAPK33k/TVD/play.php?id=373196
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",  HD 
 
+#EXTINF:-1 tvg-id="1000009246" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png", SET HD
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009246
+
+#EXTINF:-1 tvg-id="1000009248" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/33_247.png", Sony SAB HD
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009248
+
+#EXTINF:-1 group-title="Ind Entertainment" tvg-id="1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png", Sony Pal
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009273
+
+
+#EXTINF:-1 tvg-id="1000009255" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/9_255.png", Sony Aath
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009255
+
+#EXTINF:-1 tvg-id="1000001971" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png", Sony Yay
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000001971
+
+#EXTINF:-1 tvg-id="1000009247" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/35_249.png", Sony MAX HD
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247
+
+
+
+#EXTINF:-1 tvg-id="1000009249" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/1_248.png", SonyMAX¹
+https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1765338708~acl=/*~id=63741788791893550620940758470313~hmac=07c817daab6f007a0a52e8055f1c44db6ca7811061b6c8b2d0b92c68d346f8d5
+
+#EXTINF:-1 tvg-id="1000044878" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/2_250.png", Sony MAX 2
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000044878
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png", Sony WAH
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009253
+
+
+
+
+
+#EXTINF:-1 tvg-id="1000009258" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/34_252.png", Sony PIX HD
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009258
+
+#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/21_266.png",Sony Sports1 HD
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009276
+
+#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/23_267.png",Sony Sports2 HD
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009277
+
+#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/25_276.png",Sony Sports3 HD
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009278
+
+#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png", Sony Sports5 HD
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009275
+
+#EXTINF:-1 tvg-id="1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png", Sony BBC Earth HD
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009252
 
 
