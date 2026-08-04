@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1  tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086065071.png" group-title="Islamic",Al Quran
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
@@ -11,7 +12,6 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1772728412891.png" group-title="Islamic",Islamic TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8 
-
 
 #EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png" group-title="BD Entertainment",BTV
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
@@ -124,9 +124,8 @@ http://live.balajibroadband.com:3500/live/1657.m3u8
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_HD.m3u8
 
 #EXTINF:-1  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="Hindi Movies",Sony Max HD
-https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247
-
-https://madanitv.assadikb.workers.dev/live.php?id=1657&e=.m3u8
+#https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247
+#https://madanitv.assadikb.workers.dev/live.php?id=1657&e=.m3u8
 
 #EXTINF:-1 tvg-id="165" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" group-title="Hindi Movies",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
