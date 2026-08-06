@@ -108,6 +108,34 @@ http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=news_24_bd&format=.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_82f2d197736c65ee983b3d691ad7c1f3_playmist_channel24.png",Channel 24
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=channel_24&format=.m3u8
 
+#EXTINF:-1 group-title="News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_4c8e446a0a7c9f1c28fd6aef2c19132d_playmist_star_news400x400.jpg",Star News
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=star_news&format=.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",T Sports HD
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=tsports_hd&format=.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg" group-title="Aynaott",PTV Sports
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=ptv_sports&format=.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_552c5631b1d8ba169911ab3d7bc3952a_playmist_a_sports_hd_400x400.jpg",A Sports
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=a_sports&format=.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_9bd5db31bbc4d98defd1cb51a5606d9c_playmist_unite_sports_2.jpg" group-title="Aynaott",Unite8 Sports 2
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=unite8_sports_2&format=.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg" group-title="Aynaott",Willow TV
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=willow_tv&format=.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_d165c628a0db9286da3914ca916a4971_playmist_tsn_1400x400.jpg",TSN 1
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=tsn_1&format=.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_c92bf4f46958e65be6cc370e3fc1f0dd_playmist_tsn_2_400x400.jpg",TSN 2
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=tsn_2&format=.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-19/images_905f151dfde79e14a2b9e7b934683ba6_playmist_tsn3_300.jpg",TSN 3
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=tsn_3&format=.m3u8
+
+
 
 
 
@@ -120,130 +148,131 @@ http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=channel_24&format=.m3u8
 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Star Jalsha HD 
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=908682 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=908682 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Zee Bangla HD 
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=908680 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=908680 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp", Colors Bangla HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=908665
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=908665
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Sun Bangla HD 
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=908685 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=908685 
 
-#EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Sony Aath https://go.skym3u.top/live/3b1f0d3d095a7024135c0e0d01100a173b3d4b0e174a183644551c4220541a25521b3135093b095c5a515f416f75100a1658456a01000310370e0f2450101231064f5d5154542f4e686a5f53465f416a087306.m3u8
+#EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Sony Aath
+https://go.skym3u.top/live/3b1f0d3d095a7024135c0e0d01100a173b3d4b0e174a183644551c4220541a25521b3135093b095c5a515f416f75100a1658456a01000310370e0f2450101231064f5d5154542f4e686a5f53465f416a087306.m3u8
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp", Jalsha Movies HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=908675 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=908675 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Zee Bangla Cinema
 https://go.skym3u.top/live/3b1f0d3d095a7020171d15110f0b0b187130064c1a54032e7606716f7c0900357b2c38084a445452575058.m3u8
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp", Star plus HD 
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=671571 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=671571 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp", Zee Tv HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=735398 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=735398 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Sony HD 
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=943926 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=943926 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp", Colors HD 
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=944612 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=944612 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Sony SAB HD 
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=944604 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=944604 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp", And Tv HD 
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=944622
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=944622
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp", Star Bharat HD 
 https://ranapkz.site/RANAPK33k/TVD/play.php?id=943734 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp", Star Gold HD 
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=737323 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=737323 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Zee Cinema HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=735399 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=735399 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Sony Max HD 
 https://ranapkz.site/RANAPK33k/TVD/play.php?id=373074 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",And Picture HD 
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=944620 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=944620 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp", Colors Cineplex HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=944627 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=944627 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Star Gold Sel HD 
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=737326 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=737326 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp", Star Gold2 HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=372926 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=372926 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",And Xplor HD
 https://ranapkz.site/RANAPK33k/TVD/play.php?id=372925 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Star Movies HD 
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=373304 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=373304 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Star Movies Sel HD 
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=373320 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=373320 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Sony Pix HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=943971 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=943971 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Mnx HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=372982
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=372982
  
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp", Movies Now HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=372981 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=372981 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",MN Plus HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=372980 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=372980 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Nat Geographic HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=373017 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=373017 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Nat Geo Wild HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=373018 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=373018 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Discovery HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=373036 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=373036 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Animal Planet HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=944624 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=944624 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Sony BBC Earth HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=373071 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=373071 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",History HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=373031 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=373031 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",MTV HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=373020 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=373020 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Star Sports1 HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=809383 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=809383 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Star Sports2 HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=809384 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=809384 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Star Sp Select1 HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=373202 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=373202 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Star Sp Select2 HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=373201 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=373201 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Sony Sports1 HD
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=373200 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=373200 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Sony Sports2 HD 
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=373199 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=373199 
 
 #EXTINF:-1 group-title="Airtel" tvg-logo="https://i.ibb.co/nNfTM2wv/Airtel-Digital-TV-AMP-Logo-jpg.webp",Sony Sports5 HD 
-https://ranapkz.site/RANAPK33k/TVD/play.php?id=373196 
+https://ranapkz.site/RANAPK33w/TVD/play.php?id=373196 
 
 
 
