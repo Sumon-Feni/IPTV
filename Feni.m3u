@@ -237,30 +237,44 @@ https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="Ind Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png",DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250701/mycolive-3jpg-1751381255548.webp" group-title="Pak Entertainment",Aaj Entertainment
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="geo.entertainment.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/geo-entertainment-live.webp?id=37" group-title="Pak Entertainment",Geo entertainment
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250816/mycolive-21jpg-1755372369345.webp" group-title="Pak Entertainment",ARY Digital
-https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
+#EXTINF:-1 tvg-id="ary.digital.pk@SD" tvg-logo="https://i.imgur.com/TVP7g03.png" group-title="Pak Entertainment",Ary digital
+https://cdn07isb.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/playlist_dvr_timeshift-0-3600.m3u8
 
-#EXTINF:-1  tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250915/mycolive-LOCKEDLIVEBUTTONjpg-1757960113731.webp" group-title="Pak Entertainment",Geo Entertainment
-https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8
+#EXTINF:-1 tvg-id="hum.tv.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1738840613135.webp?id=95" group-title="Pak Entertainment",Hum tv
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/humTV-abr/live/vsat-humtv-M/chunks.m3u8
 
-#EXTINF:-1  tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250915/mycolive-HUMjpg-1757960022025.webp" group-title="Pak Entertainment",Hum TV
-https://ml-pull-dvc-myco.io/HUM_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="bol.entertainment.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/bol-entertainment-live.webp?id=16" group-title="Pak Entertainment",Bol entertainment
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/BolEntertainment-abr/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250816/mycolive-18jpg-1755368123203.webp" group-title="Pak Entertainment",Bol Entertainment
-https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="green.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1702552123-logo.webp?id=75" group-title="Pak Entertainment",Green entertainment
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/vsat-green-L/chunks.m3u8
 
-#EXTINF:-1  tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250704/mycolive-0001jpg-1751636222192.webp" group-title="Pak Entertainment",Express Entertainment
-https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="express.entertainment.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/express-entertainment-live.webp?id=77" group-title="Pak Entertainment",Express entertainment
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/ExpressEntertainment-abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="685ba90f23efb8c4f551a6ed" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250625/mycolive-Watch_green_entertainment_channel_online_freejpg-1750856023512.webp" group-title="Pak Entertainment",Green TV
-https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="tamasha.life.pk@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmF1FRNQj2lTZqmq155v9LkzNoK5bm-aZXL0EAyJJLw&s=10" group-title="Pak Entertainment",Tamasha life
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/Tamasha-Life-HD-abr/live/Tamasha-Life-HD-H/chunks.m3u8
 
-#EXTINF:-1  tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250818/mycolive-SAB_TVpng-1755512154299.webp" group-title="Pak Entertainment",SAB TV
-https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="sab.tv.in@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686044497-logo.webp?id=19" group-title="Pak Entertainment",Sab tv
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/SabTV-abr/live/vsat-146L/chunks.m3u8
+
+#EXTINF:-1 tvg-id="a.plus.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/a-plus-live.webp?id=60" group-title="Pak Entertainment",A plus
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Aplus-abr/live/vsat-112M/chunks.m3u8
+
+#EXTINF:-1 tvg-id="hum.masala.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1738840592660.webp?id=15" group-title="Pak Entertainment",Hum masala
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/hummasala-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hum.sitaray.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/HUM-Sitaray-Channel-logo.webp?id=80" group-title="Pak Entertainment",Hum sitaray
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/HumSitaray-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ary.zindagi.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ary-zindagi-live-logo.webp?id=59" group-title="Pak Entertainment",Ary zindagi
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv.one.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/tv-one-live.webp?id=63" group-title="Pak Entertainment",Tv one
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/TVOne-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1104" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="English Movies",Star Movies HD
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/979.ts
@@ -485,14 +499,29 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
-#EXTINF:-1 tvg-id="169000" tvg-name="Al Jazeera" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1777454219313.png" group-title="News",Al Jazeera
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.in@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/cartoon-network-live.webp?id=10" group-title="Kids",Cartoon network
+https://cdn05khi.tamashaweb.com:8087/jazzauth/cartoonnetwork-abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="193" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" group-title="News",CNN
-https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="minimax.hd.ae@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1702633459-logo.webp?id=32" group-title="Kids",Minimax hd
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/Minimax-abr/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://images.icon-icons.com/70/PNG/512/bbc_news_14062.png" group-title="News",BBC News 
-https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1 tvg-id="ltn.family.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ltn-family-live.webp?id=63" group-title="Kids",Ltn family
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/LTNFamily-abr/live/vsat-ltntv-L/chunks.m3u8
+
+#EXTINF:-1 tvg-id="8xm.music.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/8xm-live.webp?id=19" group-title="Music",8xm music
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/8xm-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="jalwa.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/jalwa-tv-live.webp?id=83" group-title="Music",Jalwa
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/jalwa-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="aljazeera.news.pk -->@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1706163791-logo.webp?id=10" group-title="News",Al jazeera
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/AL-Jazeera-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bbc.news.ae@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1761652087354.webp?id=49" group-title="News",Bbc news
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/BBCNEWS-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cnn.news.ae@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/cnn-news-live.webp?id=84" group-title="News",Cnn news
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/Livecnn-abr/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/btv-news-.jpg",BTV News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8 
@@ -548,8 +577,20 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m
 #EXTINF:-1 group-title="News"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Zee_News_HD.jpg",ZEE News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="GEOTEZZ.pk" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kPGCXyIAufCvR0HpbWJ_ePN9hzuuDMu0KfpBKH0-IF4g=s160-c-k-c0x00ffffff-no-rj",GEO TEZZ
-https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="bol.news.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/bol-news-live.webp?id=15" group-title="News",Bol news
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/BolNews-abr/playlist.m3u8
 
-#EXTINF:-1 group-title="News"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Dunya_News.png",NEWS | Dunya News
-https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/chunklist_w1668837618_b950272.m3u8
+#EXTINF:-1 tvg-id="ptv.news.pk@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY8llQR0rGZyHsaNiixNEtGtF3HIAaOi4EX7Z4W6QT8A&s=10" group-title="News",Ptv news
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVNews-abr/live/191M/chunks.m3u8
+
+#EXTINF:-1 tvg-id="geo.news.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/geo-news-live.webp?id=52" group-title="News",Geo news
+https://cdn07isb.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/playlist_dvr_timeshift-0-3600.m3u8
+
+#EXTINF:-1 tvg-id="ary.news.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1684242189-logo.webp?id=63" group-title="News",Ary news hd
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/ARYnews-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="express.news.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/express-news-live.webp?id=55" group-title="News",Express news
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/expressnews-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hum.news.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/HUM-News-Channel-logo.webp?id=98" group-title="News",Hum news
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/humnews-abr/playlist.m3u8
