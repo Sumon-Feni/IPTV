@@ -313,7 +313,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1335" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="Infotainment",National Geographic HD
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/7343.ts
+#EXT-X-VERSION:3 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:18:92:60&stream=1667722&extension=m3u8 
+#http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/7343.ts
 
 #EXTINF:-1 tvg-id="1332" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="Infotainment",Nat Geo Wild HD
 https://yowaimo.in/Sflex-ArtlPVT0719/NAT_GEO_WILD_HD.m3u8
