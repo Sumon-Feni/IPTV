@@ -524,6 +524,21 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
+#EXTINF:-1 tvg-id="8xm.music.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/8xm-live.webp?id=19" group-title="Music",8xm music
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/8xm-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="jalwa.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/jalwa-tv-live.webp?id=83" group-title="Music",Jalwa
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/jalwa-abr/playlist.m3u8
+
+#EXTINF:-1 group-title="Kinds" tvg-logo="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",Sony YAY
+https://s2.itcnbd.live/server-2/stream/sonyyay.m3u8
+
+#EXTINF:-1 group-title="Kinds" tvg-logo="https://assets-prod.services.toffeelive.com/ny6W-JQBv9knK3AHujXC/posters/7e7c2afe-a663-4c09-983a-2d0fa0f1ca9a.webp",POGO
+https://s2.itcnbd.live/server-2/stream/pogo_sd.m3u8
+
+#EXTINF:-1 group-title="Kinds" tvg-logo="https://assets-prod.services.toffeelive.com/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp",Discovery Kids
+https://s2.itcnbd.live/server-2/stream/discovery_kids.m3u88
+
 #EXTINF:-1 tvg-id="cartoon.network.in@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/cartoon-network-live.webp?id=10" group-title="Kids",Cartoon network
 https://cdn05khi.tamashaweb.com:8087/jazzauth/cartoonnetwork-abr/playlist.m3u8
 
@@ -532,12 +547,6 @@ https://cdn21lhr.tamashaweb.com:8087/jazzauth/Minimax-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ltn.family.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ltn-family-live.webp?id=63" group-title="Kids",Ltn family
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/LTNFamily-abr/live/vsat-ltntv-L/chunks.m3u8
-
-#EXTINF:-1 tvg-id="8xm.music.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/8xm-live.webp?id=19" group-title="Music",8xm music
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/8xm-abr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="jalwa.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/jalwa-tv-live.webp?id=83" group-title="Music",Jalwa
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/jalwa-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="aljazeera.news.pk -->@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1706163791-logo.webp?id=10" group-title="News",Al jazeera
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/AL-Jazeera-abr/playlist.m3u8
