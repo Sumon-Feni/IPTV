@@ -604,7 +604,7 @@ http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=channel_24&format=.m3u8
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=atn_news&format=.m3u8
 
 #EXTINF:-1 tvg-id="186000" tvg-name="News 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png" group-title="News",News 24 HD
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=news_24_bd&format=.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/28.m3u8
 
 #EXTINF:-1 tvg-id="191000" tvg-name="Star News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="News",Star News
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=star_news&format=.m3u8
