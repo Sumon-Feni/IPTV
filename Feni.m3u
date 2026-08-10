@@ -326,7 +326,7 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="1335" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="Infotainment",National Geographic HD
 #EXT-X-VERSION:3 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155772.m3u8 
-#http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/7343
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/7343
 
 #EXTINF:-1 tvg-id="1332" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="Infotainment",Nat Geo Wild HD
 https://yowaimo.in/Sflex-ArtlPVT0719/NAT_GEO_WILD_HD.m3u8
