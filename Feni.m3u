@@ -323,6 +323,16 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
+#EXTINF:-1group-title="English Movies" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/mbc2.png",MBC2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd
+
+#EXTINF:-1group-title="English Movies" tvg-logo="https://i.ibb.co/1GfhMKQR/mbc-max-logo-png-seeklogo-237772.png",MBC Max HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
+
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/baef6dd41c3ee6fabbb59bb8403cc1eb" group-title="English Movies",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
@@ -536,7 +546,7 @@ https://cdn21lhr.tamashaweb.com:8087/jazzauth/8xm-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="jalwa.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/jalwa-tv-live.webp?id=83" group-title="Music",Jalwa
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/jalwa-abr/playlist.m3u8
 
-#EXTINF:-1 group-title="Kinds tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png",Sonic Bangla
+#EXTINF:-1 group-title="Kinds" tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png",Sonic Bangla
 http://live.balajibroadband.com:3500/live/1345.m3u8
 
 #EXTINF:-1 group-title="Kinds" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png",Nick Bangla
