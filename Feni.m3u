@@ -55,8 +55,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://playztv-apps.pages.dev/channel-9/index.m3u8
 
 #EXTINF:-18 group-title="BD Entertainment" tvg-logo="https://i.imgur.com/2cpHJKq.png",Nagorik HD
-#http://103.204.43.87:8080/live/1/1/282.m3u8
-http://103.151.61.12/Nagorik_TV/video.m3u8?token=i7bZaZWaFrSIE0
+http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8
 
 #EXTINF:-18 group-title="BD Entertainment" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png",GreenTV 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8 
@@ -241,28 +240,29 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ary.digital.pk@SD" tvg-logo="https://i.imgur.com/TVP7g03.png" group-title="Pak Entertainment",Ary digital
-https://cdn07isb.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/playlist_dvr_timeshift-0-3600.m3u8
+#https://cdn07isb.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/playlist_dvr_timeshift-0-3600.m3u8
+https://cdn07isb.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hum.tv.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1738840613135.webp?id=95" group-title="Pak Entertainment",Hum tv
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/humTV-abr/live/vsat-humtv-M/chunks.m3u8
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bol.entertainment.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/bol-entertainment-live.webp?id=16" group-title="Pak Entertainment",Bol entertainment
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/BolEntertainment-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="green.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1702552123-logo.webp?id=75" group-title="Pak Entertainment",Green entertainment
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/vsat-green-L/chunks.m3u8
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/playlit.m3u8
 
 #EXTINF:-1 tvg-id="express.entertainment.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/express-entertainment-live.webp?id=77" group-title="Pak Entertainment",Express entertainment
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/ExpressEntertainment-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tamasha.life.pk@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmF1FRNQj2lTZqmq155v9LkzNoK5bm-aZXL0EAyJJLw&s=10" group-title="Pak Entertainment",Tamasha life
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/Tamasha-Life-HD-abr/live/Tamasha-Life-HD-H/chunks.m3u8
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/Tamasha-Life-HD-abr/playliy.m3u8
 
 #EXTINF:-1 tvg-id="sab.tv.in@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686044497-logo.webp?id=19" group-title="Pak Entertainment",Sab tv
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/SabTV-abr/live/vsat-146L/chunks.m3u8
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/SabTV-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="a.plus.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/a-plus-live.webp?id=60" group-title="Pak Entertainment",A plus
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/Aplus-abr/live/vsat-112M/chunks.m3u8
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Aplus-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hum.masala.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1738840592660.webp?id=15" group-title="Pak Entertainment",Hum masala
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/hummasala-abr/playlist.m3u8
