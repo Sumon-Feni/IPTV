@@ -218,7 +218,7 @@ http://live.balajibroadband.com:3500/live/144.m3u8
 #EXTINF:-1 tvg-id="291" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Ind Entertainment",SET HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 #https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009246
-http://live.balajibroadband.com:3500/live/291.m3u8
+https://playyonogames.in/sliv/stream.m3u8?id=1000009246|referer=https://playyonogames.in/
 
 #EXTINF:-1 tvg-id="472" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AndTVHD.png" group-title="Ind Entertainment",And TV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -228,7 +228,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 #EXTINF:-1 tvg-id="471" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png" group-title="Ind Entertainment",Sony SAB HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 #https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009248
-http://live.balajibroadband.com:3500/live/471.m3u8
+https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyonogames.in/
 
 #EXTINF:-1 tvg-id="931" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="Ind Entertainment",Star Bharat HD
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_BHARAT_HD.m3u8
