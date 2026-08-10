@@ -530,6 +530,12 @@ https://cdn21lhr.tamashaweb.com:8087/jazzauth/8xm-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="jalwa.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/jalwa-tv-live.webp?id=83" group-title="Music",Jalwa
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/jalwa-abr/playlist.m3u8
 
+#EXTINF:-1 group-title="Kinds tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png",Sonic Bangla
+http://live.balajibroadband.com:3500/live/1345.m3u8
+
+#EXTINF:-1 group-title="Kinds" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png",Nick Bangla
+http://live.balajibroadband.com:3500/live/1341.m3u8
+
 #EXTINF:-1 group-title="Kinds" tvg-logo="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",Sony YAY
 https://s2.itcnbd.live/server-2/stream/sonyyay.m3u8
 
