@@ -134,7 +134,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/.m3u8
 http://live.balajibroadband.com:3500/live/1657.m3u8
 
 #EXTINF:-1 tvg-id="156" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi Movies",Star Gold HD
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_HD.m3u8
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:18:92:60&stream=440261&extension=m3u8
 
 #EXTINF:-1  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="Hindi Movies",Sony Max HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -160,10 +161,12 @@ http://shoebinfo.qzz.io/zee5/zee5.php?play=0-9-209
 http://live.balajibroadband.com:3500/live/1477.m3u8
 
 #EXTINF:-1 tvg-id="1113" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="Hindi Movies",Star Gold Select HD
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_SELECT_HD.m3u8
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:18:92:60&stream=440263&extension=m3u8
 
 #EXTINF:-1 tvg-id="3096" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="Hindi Movies",Star Gold 2 HD
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_2_HD.m3u8
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:18:92:60&stream=720837&extension=m3u8
 
 #EXTINF:1  tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658e6b59efbc9c5471f9392f477f91f0c11.png" group-title="Hindi Movies",Zee Bollywood
 #KODIPROP:inputstream.adaptive.license_type=clearkey
