@@ -307,11 +307,11 @@ https://cdn22lhr.tamashaweb.com:8087/jazzauth/TVOne-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1104" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="English Movies",Star Movies HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/979.ts
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1116488.m3u8
 
 #EXTINF:-1 tvg-id="1110" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="English Movies",Star Movies Select HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/218.ts
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155729.m3u8
 
 #EXTINF:-1 tvg-id="762" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPIX.png" group-title="English Movies",Sony Pix HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
