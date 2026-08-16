@@ -243,7 +243,9 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyono
 
 #EXTINF:-1 tvg-id="931" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="Ind Entertainment",Star Bharat HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-http://mag.ugoiptv.com:80/play/live.php?mac=00:1a:79:f9:4f:1c&stream=280765&extension=m3u8 
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://line.umetop.pro:80/play/live.php?mac=00:1A:79:8F:BA:8A&stream=280765&extension=m3u8 
 
 #EXTINF:-1 group-title="Ind Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmol.png",Zee Anmol 
 http://shoebinfo.qzz.io/zee5/zee5.php?play=0-9-zeeanmol
