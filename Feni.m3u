@@ -486,7 +486,7 @@ http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=ptv_sports&format=.m3u8
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow HD TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=willow_tv&format=.m3u8
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Uy6Q-JQBv9knK3AHcDUQ/posters/01709bcd-6d53-4710-a64f-bc49cecf1d61.webp",Eurosport HD
 https://s2.itcnbd.live/server-2/stream/euro_sports_hd.m3u8
@@ -510,16 +510,16 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009277
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009275
 
 #EXTINF:-1 tvg-id="1106" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_1_HD.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1104673.m3u8
 
 #EXTINF:-1 tvg-id="1109" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="Sports",Star Sports 2 HD
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_2_HD.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1104674.m3u8
 
 #EXTINF:-1 tvg-id="460" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png" group-title="Sports",Star Sports Select 1 HD
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_1_HD.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1114583.m3u8
 
 #EXTINF:-1 tvg-id="461" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" group-title="Sports",Star Sports Select 2 HD
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_2_HD.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1114584.m3u8
 
 #EXTINF:-1 tvg-id="1145" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV HD
 #https://madanitv.assadikb.workers.dev/live.php?id=1145&e=.m3u8
