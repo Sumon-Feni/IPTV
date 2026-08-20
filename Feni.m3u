@@ -87,6 +87,15 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-27 group-title="BD Entertainment" tvg-logo="https://i.imgur.com/kDmkexe.png", Bijoy TV
 https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 
+#EXTINF:-1group-title="BD Bangla" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1group-title="BD Bangla" tvg-logo="http://data.jaagobd.com/media/channel_logos/EPTV-Logo-400x400.png",EP TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="BD Bangla" tvg-logo="https://i.postimg.cc/g06jByt1/entertv.jpg",Enter TV
+https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-id="317" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png" group-title="Kol_Bangla",Star Jalsha HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
