@@ -246,8 +246,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 
 #EXTINF:-1 tvg-id="144" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="Ind Entertainment",Colors HD
 #EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/Colors_HD.m3u8
 #https://shoebinfo.qzz.io/test/hot.php/Colors-HD.m3u8
-http://live.balajibroadband.com:3500/live/144.m3u8
+#http://live.balajibroadband.com:3500/live/144.m3u8
 
 #EXTINF:-1 tvg-id="291" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Ind Entertainment",SET HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
