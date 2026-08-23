@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1700000
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=823804&extension=m3u8
