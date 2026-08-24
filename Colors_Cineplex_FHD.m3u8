@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1100000 
-#http://main.light-ott.net:80/play/live.php?mac=00:1B:79:53:05:29&stream=944627&extension=m3u8 
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:02:3F:2B&stream=156003&extension=m3u8
+#http://main.light-ott.net:80/play/live.php?mac=00:1B:79:53:05:29&stream=944627&extension=m3u8 
+
