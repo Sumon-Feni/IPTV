@@ -1,6 +1,6 @@
-#EXTM3U 
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:6 
-#EXT-X-MEDIA-SEQUENCE:0 
-#EXTINF:6.000000,
-http://line.4k-beast.top:80/ehZZtoP2AZdmcJJ/llCtpHFoxt/108801.ts 
+#EXTM3U #EXT-X-VERSION:3 #EXT-X-MEDIA-SEQUENCE:551 #EXT-X-ALLOW-CACHE:YES #EXT-X-TARGETDURATION:11 #EXTINF:9.999933, http://line.4k-beast.top:80/ehZZtoP2AZdmcJJ/llCtpHFoxt/108801_551.ts 
+#EXTINF:10.199922, http://line.4k-beast.top:80/ehZZtoP2AZdmcJJ/llCtpHFoxt/108801_552.ts 
+#EXTINF:9.479933, http://line.4k-beast.top:80/ehZZtoP2AZdmcJJ/llCtpHFoxt/108801_553.ts 
+#EXTINF:10.399933, http://line.4k-beast.top:80/ehZZtoP2AZdmcJJ/llCtpHFoxt/108801_554.ts
+#EXTINF:9.479922, http://line.4k-beast.top:80/ehZZtoP2AZdmcJJ/llCtpHFoxt/108801_555.ts 
+#EXTINF:10.359933, http://line.4k-beast.top:80/ehZZtoP2AZdmcJJ/llCtpHFoxt/108801_556.ts
