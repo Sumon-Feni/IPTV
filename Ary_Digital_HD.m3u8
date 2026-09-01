@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
+http://codesiptv.xyz:80/play/live.php?mac=00:1A:79:87:95:C9&stream=292814&extension=m3u8 
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:3D:2B:3E&stream=373192&extension=m3u8
