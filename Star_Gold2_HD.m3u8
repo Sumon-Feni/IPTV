@@ -2,4 +2,7 @@
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1100000
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:53:05:29&stream=372926&extension=m3u8 
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1700000
 http://codesiptv.xyz:80/play/live.php?mac=00:1A:79:87:95:C9&stream=841993&extension=m3u8 
