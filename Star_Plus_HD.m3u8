@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1700000
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:3D:2B:3E&stream=671571&extension=m3u8 
 http://mag.ugoiptv.com:80/play/live.php?mac=00:1a:79:f9:4f:1c&stream=155971&extension=m3u8 
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:53:05:29&stream=671571&extension=m3u8
