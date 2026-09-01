@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1700000
-http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=19260&deviceMac=00:1A:79:00:02:27
+http://codesiptv.xyz:80/play/live.php?mac=00:1A:79:87:95:C9&stream=281674&extension=m3u8 
 http://mag.ugoiptv.com:80/play/live.php?mac=00:1a:79:f9:4f:1c&stream=155771&extension=m3u8 
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:53:05:29&stream=908656&extension=m3u8 
-http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=19260&deviceMac=00:1A:79:00:02:27
+http://tv.cloudcdn.me:80/live.m3u8?channelId=117&uid=19260&deviceMac=00:1A:79:00:02:27
