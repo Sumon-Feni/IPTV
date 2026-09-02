@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:1
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1100000 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1600000 
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:A2:B8:2E&stream=944612&extension=m3u8 
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:02:3F:2B&stream=280774&extension=m3u8 
