@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1700000
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:A2:B8:2E&stream=373204&extension=m3u8 
-http://mag.ugoiptv.com:80/play/live.php?mac=00:1a:79:f9:4f:1c&stream=282673&extension=m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=1616800,AVERAGE-BANDWIDTH=4540800,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1080x720,FRAME-RATE=25.000
+http://vpn.streamhut.xyz:80/play/live.php?mac=00:1A:79:02:A0:F2&stream=282673&extension=m3u8
