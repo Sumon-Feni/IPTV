@@ -157,4 +157,5 @@ https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8
 https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
 
 #EXTINF:-1 tvg-number="010" tvg-id="68a2fd5a50b21f5e281665b0" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250818/mycolive-SAB_TVpng-1755512154299.webp" group-title="myCo LIVE",SAB TV
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/index.m3u8
