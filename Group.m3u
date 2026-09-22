@@ -1,1 +1,25 @@
+#EXTM3U 
 
+#EXTINF:-1 tvg-number="010" tvg-id="68a0d7b883214baa498339f0" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250915/mycolive-LOCKEDLIVEBUTTONjpg-1757960113731.webp" group-title="myCo LIVE",Geo Entertainment
+https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8
+
+#EXTINF:-1 tvg-number="010" tvg-id="68a0db513b0806534bf2c256" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250816/mycolive-21jpg-1755372369345.webp" group-title="myCo LIVE",ARY Digital
+https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
+
+#EXTINF:-1 tvg-number="010" tvg-id="68c857578045897c6ef17c18" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250915/mycolive-HUMjpg-1757960022025.webp" group-title="myCo LIVE",Hum TV
+https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
+
+#EXTINF:-1 tvg-number="010" tvg-id="68a0cabb3776b2f7c3a5ffaf" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250816/mycolive-18jpg-1755368123203.webp" group-title="myCo LIVE",Bol Entertainment
+https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8
+
+#EXTINF:-1 tvg-number="010" tvg-id="6867d8ff1c5514f6b4909acd" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250704/mycolive-0001jpg-1751636222192.webp" group-title="myCo LIVE",Express Entertainment
+https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
+
+#EXTINF:-1 tvg-number="010" tvg-id="685ba90f23efb8c4f551a6ed" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250625/mycolive-Watch_green_entertainment_channel_online_freejpg-1750856023512.webp" group-title="myCo LIVE",Green Entertainment TV
+https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8
+
+#EXTINF:-1 tvg-number="010" tvg-id="682f1e66d132b2399b27ab00" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250701/mycolive-3jpg-1751381255548.webp" group-title="myCo LIVE",Aaj Entertainment
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
+
+#EXTINF:-1 tvg-number="010" tvg-id="68a2fd5a50b21f5e281665b0" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250818/mycolive-SAB_TVpng-1755512154299.webp" group-title="myCo LIVE",SAB TV
+https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/index.m3u8
