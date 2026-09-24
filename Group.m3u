@@ -98,7 +98,46 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 #EXTINF:-1 group-title="BYNA OTT" tvg-logo="https://s3.aynaott.com/storage/6653326503fcade746d87881d5c99697",Independent TV
 https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8
 
- 
+ #EXTINF:-1 group-title="Star Network" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png",Star Jalsha HD 
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/10_Star_Jalsha.m3u8
+
+#EXTINF:-1 group-title="Star Network" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png",Jalsha Movies HD
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/14_Jalsha_Movies.m3u8
+
+#EXTINF:-1 group-title="Star Network" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png",Star Gold HD
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/15_Star_gold.m3u8
+
+#EXTINF:-1 group-title="Star Network" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png",Star Gold Select HD
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/17_Star_Gold_Sel.m3u8
+
+#EXTINF:-1 group-title="Star Network" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png",Star Gold 2 HD
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/16_Star_Gold2.m3u8
+
+#EXTINF:-1 group-title="Star Network" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/18_Star_Plus.m3u8
+
+#EXTINF:-1 group-title="Star Network" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png",Star Bharat HD
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/19_Star_Bharat.m3u8
+
+#EXTINF:-1 group-title="Star Network" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",Star Movies HD
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/27_Star_Movies.m3u 
+
+#EXTINF:-1 group-title="Star Network" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",Star Movies Select HD
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/28_Star_Movies_Sel.m3u
+
+#EXTINF:-1 group-title="Star Network" tvg-logo="https://i.ibb.co/pmVQWFZ/SS1HD.jpg",Star Sports 1 HD
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/Star_Sports1_HD.m3u8
+
+#EXTINF:-1 group-title="Star Network" tvg-logo="https://i.ibb.co/x8739M8d/SS2HD.jpg",Star Sports 2 HD
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/Star_Sports2_HD.m3u8
+
+#EXTINF:-1 group-title="Star Network" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7226/597226-h.jpg",Star Sports Select 1 HD
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/Star_Sports_Sel1.m3u8
+
+#EXTINF:-1 group-title="Star Network" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7227/597227-h.jpg",Star Sports Select 2 HD
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/Star_Sports_Sel2.m3u8
+
+
 
 #EXTINF:-1 tvg-id="1000009255" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Sony liv",Sony aath
 https://techandeat.online/sliv/stream.m3u8?id=1000009255|Referer=https://techandeat.online/
