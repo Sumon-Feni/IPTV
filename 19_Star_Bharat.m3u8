@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=1616800,AVERAGE-BANDWIDTH=4540800,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1080x720,FRAME-RATE=30.000
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:C1:4E:7A&stream=155973&extension=m3u8 
 http://103.176.90.140:80/play/live.php?mac=00:1A:79:9A:5F:23&stream=156173&extension=m3u8 
 http://vpn.streamhut.xyz:80/play/live.php?mac=00:1A:79:02:A0:F2&stream=280765&extension=m3u8
 
