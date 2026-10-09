@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1703000,AVERAGE-BANDWIDTH=170000,AUDIO="audio",CODECS="mp4a.40.2,avc1.4D400C",RESOLUTION=1080x720,FRAME-RATE=25
+http://mag.max-cdn.com:80/play/live.php?mac=00:1B:79:47:7D:90&stream=911325&extension=m3u8 
+http://codesiptv.xyz:80/play/live.php?mac=00:1A:79:87:95:C9&stream=689571&extension=m3u8 
