@@ -98,7 +98,7 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 #EXTINF:-1 group-title="BYNA OTT" tvg-logo="https://s3.aynaott.com/storage/6653326503fcade746d87881d5c99697",Independent TV
 https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8
 
- #EXTINF:-1 group-title="Star Network" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png",Star Jalsha HD 
+#EXTINF:-1 group-title="Star Network" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png",Star Jalsha HD 
 https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/10_Star_Jalsha.m3u8
 
 #EXTINF:-1 group-title="Star Network" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png",Jalsha Movies HD
