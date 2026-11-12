@@ -1,0 +1,28 @@
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/Q5cMg8W/latest.png",Sky Sport¹ NZ
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/Sky-Sport-1.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/93VcH4Dt/sky-sport-2.png",Sky Sport² NZ
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/Sky-Sport-2.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/5f3X1RF/sky-sport-3.png", Sky Sport³ NZ
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
+https://cdn01.medialive.one:2096/ALJAZEERAFHD/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/LzHY5r88/sky-sport-4.png",Sky Sport⁴ NZ
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
+https://cdn01.medialive.one:2096/HBO2FHD/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/RFGbfRP/Sky-Sport-5.jpg",Sky Sport⁵ NZ
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
+https://cdn01.medialive.one:2096/ALJAZEERAFHD/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/FLBQv5pp/sky-sport-6.jpg",Sky Sport⁶ NZ
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
+https://cdn01.medialive.one:2096/HBO2FHD/index.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/JRH6srT9/sky-sport-7.jpg", Sky Sport⁷ NZ
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
+https://cdn01.medialive.one:2096/ALJAZEERAFHD/index.m3u8
